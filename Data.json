@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Blue Scarf for girls",
+      "id": 1,
+      "image": "https://as1.ftcdn.net/v2/jpg/10/38/95/98/1000_F_1038959824_FJ5m7XlcIpvEUH6yiozJpqyleeTeB911.jpg",
+      "price": "PKR 5000",
+      "category": "women"
+    },
+    {
+      "name": "Boys Lether Jacket",
+      "id": 2,
+      "image": "https://as1.ftcdn.net/v2/jpg/10/47/99/76/1000_F_1047997694_6WTTAnHelXyjOp7GlNuyiVbYg9ampEdE.jpg",
+      "price": "PKR 8000",
+      "category": "men"
+    },
+    {
+      "name": "Girls black Net Suit",
+      "id": 3,
+      "image": "https://as1.ftcdn.net/v2/jpg/10/29/55/40/1000_F_1029554083_UXIZKudEQIFzk7VsxHgynx5Wu4NSjB6V.jpg",
+      "price": "PKR 2500",
+      "category": "women"
+    }
+  ]
